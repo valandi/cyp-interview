@@ -4,7 +4,7 @@
 	"description": "An Applitools example project for Cypress in JavaScript",
 	"main": "index.js",
 	"scripts": {
-	  "test": "cypress run --browser chrome --spec ./cypress/e2e/simple-example.cy.js",
+	  "test": "cypress run --browser chrome --spec ./cypress/e2e/interview.cy.js",
 	  "cypress:open": "cypress open"
 	},
 	"author": "Applitools Team <team@applitools.com> (http://www.applitools.com/)",
