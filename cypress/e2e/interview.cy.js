@@ -11,18 +11,18 @@ describe('Applitools Interview', () => {
     //    5. Click "Add to cart"
     //    6. Navigate to cart (cart icon in the top right corner)
     //    7. Click "Checkout"
-    //    8. Write an assertion to ensure that the total price of the cart is $9.69. 
+    //    8. Take a screenshot
     it('Applitools e-commerce test', () => {
-        
+
     })
 
     // Part 2
     // Write a test that satisfies the following workflow:
-    // 1. Navigate to https://the-internet.herokuapp.com/hovers
-    // 2. Hover over the first image
-    // 3. Write an assertion to ensure that the text "name: user1" is visible
+    // 1. Navigate to https://the-internet.herokuapp.com/horizontal_slider
+    // 2. Change the value of the slider to 2.0
+    // 3. Write an assertion to ensure that the value of the slider is indeed set to 2.0
     it('Hover Test', () => {
-       
+
     })
 
     afterEach(() => {
